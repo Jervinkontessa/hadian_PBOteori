@@ -26,7 +26,7 @@ class aplikasi_nilai{
 		
 		
 		double nrata = (n1 + n2 + n3)/3;
-		double nakhir = (nrata * 0.3)+(nilaimid*0.3)+(nilaifinal * 0.3);
+		double nakhir = (nrata * 0.3)+(nilaimid*0.3)+(nilaifinal * 0.4);
 		System.out.println("nilai akhir : "+ nakhir);
 		
     	
